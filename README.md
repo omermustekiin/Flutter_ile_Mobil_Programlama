@@ -8,4 +8,4 @@
 
 4. Bugün Ne Yesem: Kullanıcı herhangi bir resme tıkladığında karşısına menü seçenekleri random olarak getirilir.
 
-5. Bilgi Testi: OOP programlama temelleri doğrultusunda ve refactoring esas alınarak hazırlanmış bir bilgi testi yarışması.
+5. Bilgi Testi: OOP programlama temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış bir bilgi testi yarışması.
